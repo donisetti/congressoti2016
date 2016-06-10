@@ -47,8 +47,8 @@
 
 # Contatos
 - (email) edison@agiuscloud.com
-- (facebook) edisonpcosta
-- (Linkedin) edisonpcosta
+- (facebook) https://www.facebook.com/edisonpcosta
+- (Linkedin) https://www.linkedin.com/in/edisonpcosta
 - (YouTube) https://www.youtube.com/channel/UCvQkKZj7haeDq4cyvXOPdwA
 
 # Sucesso !
