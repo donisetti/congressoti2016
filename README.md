@@ -40,12 +40,10 @@
 ## BlueLife Hosts Editor
 - http://www.sordum.org/8266/bluelifehosts-editor-v1-2/
 
-## Script de Instalação
+# Script de Instalação
+
+## EasyEngine
 - https://easyengine.io/
-
-Install Server (User Data): 
-
-https://git.io/vwMcF
 
 # Contatos
 - (email) edison@agiuscloud.com
@@ -53,8 +51,7 @@ https://git.io/vwMcF
 - (Linkedin) edisonpcosta
 - (YouTube) https://www.youtube.com/channel/UCvQkKZj7haeDq4cyvXOPdwA
 
-
 # Sucesso !
 
-Edison Costa
+###Edison Costa
 
